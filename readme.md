@@ -50,7 +50,7 @@ Add anchor specification to controls in the tag property in the designer :
 * "TBLR;" to anchor all direction, making the control to shrink/expand in both direction.
 * "LR;" to anchor left and right so that width will grow with container
 
-[![Quick demonstration](demo.png)](demo.webp)
+[![Quick demonstration](demo.png)](https://github.com/xlat/nv_auto_resizer/raw/main/demo.webp)
 
 TAG FORMAT
 ==========
