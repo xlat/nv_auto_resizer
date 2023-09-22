@@ -1,0 +1,15 @@
+$PBExportHeader$p_exe.srj
+EXE:testresizer.exe,testresizer.pbr,0,1,1
+CMP:1,0,0,2,0,0
+COM:NGS
+DES:Application to test nv_auto_resizer
+CPY:2023, Nicolas Georges Service sàrl, MIT license
+PRD:Test Resizer Application
+PVS:1,0,0,1
+PVN:1,0,0,1
+FVS:1,0,0,1
+FVN:1,0,0,1
+PBD:D:\dev\gits\nv_auto_resizer\pb0009\testresizer.pbl,,0
+OBJ:D:\dev\gits\nv_auto_resizer\pb0009\testresizer.pbl,testresizer,a
+OBJ:d:\dev\gits\nv_auto_resizer\pb0009\testresizer.pbl,w_test,w
+OBJ:d:\dev\gits\nv_auto_resizer\pb0009\testresizer.pbl,nv_auto_resizer,u
